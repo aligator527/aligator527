@@ -1,4 +1,4 @@
-### Hi there, I'm Ivan 👋
+### Hi there, I'm Ivan! 👋
 
 🌱 I’m currently learning: 基本情報技術者試験 (Japanese National Examination for Basic Information Technology Engineers)
 
