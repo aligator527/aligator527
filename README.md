@@ -8,7 +8,7 @@
 
 🗾 Currently live in Japan, Tokyo
 
-![Codewars](https://github.r2v.ch/codewars?user=aligator527)
+![Codewars](https://github.r2v.ch/codewars?user=aligator527&top_languages=true)
 
 <!--
 **aligator527/aligator527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
