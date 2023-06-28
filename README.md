@@ -9,6 +9,7 @@
 🗾 Currently live in Japan, Tokyo
 
 ![Codewars](https://github.r2v.ch/codewars?user=aligator527&top_languages=true)
+[![Ivan Dolgov StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=22144687)](https://stackoverflow.com/users/22144687/aligator527)
 
 <!--
 **aligator527/aligator527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
