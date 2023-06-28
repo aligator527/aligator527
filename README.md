@@ -1,6 +1,10 @@
-### Hi there 👋
-![Codewars](https://github.r2v.ch/codewars?user=aligator527)
+### Hi there, I'm Ivan 👋
 
+🌱 I’m currently learning: 基本情報技術者試験 (Japanese National Examination for Basic Information Technology Engineers)
+📫 How to reach me: algiator5278@gmail.com
+🌎 Speak next languages: Russian, English, Japanese
+🗾 Currently live in Japan, Tokyo
+![Codewars](https://github.r2v.ch/codewars?user=aligator527)
 
 <!--
 **aligator527/aligator527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
