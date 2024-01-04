@@ -19,7 +19,7 @@ I've been learning to code since 12 years. Know a lot, but a small.
                   ### Socials
                   
                   
-                <p align="left">
+<p align="left">
                       <a href="https://discord.com/users/aligator527" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="undefined" />
@@ -63,9 +63,8 @@ I've been learning to code since 12 years. Know a lot, but a small.
                     </picture>
                     </a></p>
 
+## Codewars
 ![Codewars](https://github.r2v.ch/codewars?user=aligator527&top_languages=true)
-[![Ivan Dolgov StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=22144687)](https://stackoverflow.com/users/22144687/aligator527)
-
 <!--
 **aligator527/aligator527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
