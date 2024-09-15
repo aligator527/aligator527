@@ -8,12 +8,12 @@ I've been learning to code since 12 years. Know a lot, but a small.
 
 *   🌍  I'm based in Tokyo
 *   ✉️  You can contact me at [aligator527official@gmail.com](mailto:aligator527official@gmail.com)
-*   🚀  I'm currently working on [Marvel株式会社](http://https://marvel.engineer/)
+*   🚀  I'm currently working on [Marvel株式会社](http://marvel.engineer/)
 *   🧠  I'm learning anything related to CS
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  I really like crab salad
 
-My current site is [aligator527.github.io](http://https://aligator527.github.io/)
+My current site is [aligator527.github.io](http://https://www.aligator527.github.io/)
 
   ### Skills 
 <p align="left">
