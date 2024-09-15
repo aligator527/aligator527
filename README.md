@@ -13,7 +13,7 @@ I've been learning to code since 12 years. Know a lot, but a small.
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  I really like crab salad
 
-My current site is [aligator527.github.io](aligator527.github.io/)
+My current site is [aligator527.github.io](https://aligator527.github.io/)
 
   ### Skills 
 <p align="left">
