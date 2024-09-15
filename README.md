@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ivan Dolgov🐊
 =====================================================================================================================================
 
-React.js & Python Full-Stack Developer
+React & PHP Full-Stack Developer
 --------------------------------------
 
 I've been learning to code since 12 years. Know a lot, but a small.
 
 *   🌍  I'm based in Tokyo
-*   ✉️  You can contact me at [algiator5278@gmail.com](mailto:algiator5278@gmail.com)
+*   ✉️  You can contact me at [aligator527official@gmail.com](mailto:aligator527official@gmail.com)
 *   🚀  I'm currently working on [Marvel株式会社](http://https://marvel.engineer/)
 *   🧠  I'm learning anything related to CS
 *   🤝  I'm open to collaborating on interesting projects
