@@ -7,8 +7,8 @@ React & PHP Full-Stack Developer
 I've been learning to code since 12 years. Know a lot, but a small.
 
 *   🌍  I'm based in Tokyo
-*   ✉️  You can contact me at [aligator527official@gmail.com](mailto:aligator527official@gmail.com)
-*   🚀  I'm currently working on [Marvel株式会社](http://marvel.engineer/)
+*   ✉️  You can contact me at [ivan.d@wanya.group](mailto:ivan.d@wanya.group)
+*   🚀  I'm currently working as Individual Entrepreneur at several Japanese companies
 *   🧠  I'm learning anything related to CS
 *   🤝  I'm open to collaborating on interesting projects
 *   ⚡  I really like crab salad
