@@ -1,42 +1,41 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ivan Dolgov🐊
-=====================================================================================================================================
+# Ivan Dolgov
 
-React & PHP Full-Stack Developer
---------------------------------------
+**Tech Lead / Full-Stack Engineer in Tokyo.** Web systems · architecture · cloud · enterprise software.
 
-I've been learning to code since 12 years. Know a lot, but a small.
+I design and ship complex web systems — from requirements and architecture to production. 5+ years across technical leadership, contract product work, client delivery and independent practice.
 
-*   🌍  I'm based in Tokyo
-*   ✉️  You can contact me at [ivan.d@wanya.group](mailto:ivan.d@wanya.group)
-*   🚀  I'm currently working as Individual Entrepreneur at several Japanese companies
-*   🧠  I'm learning anything related to CS
-*   🤝  I'm open to collaborating on interesting projects
-*   ⚡  I really like crab salad
+**[Portfolio and case studies →](https://aligator527.github.io/)** · [日本語](https://aligator527.github.io/ja/) · [Русский](https://aligator527.github.io/ru/)
 
-My current site is [www.wanya,group](https://www.wanya.group/)
+Open to selected consulting and contract work: remote from Tokyo, or with teams outside Japan.
 
-  ### Skills 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="36" height="36" alt="Rust" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-                    </p>
-                    
-### Socials
-                  
-<a href="https://www.linkedin.com/in/aligator527" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> </p>
+## Current and recent work
 
-## Codewars Stats
-![Codewars](https://github.r2v.ch/codewars?user=aligator527&top_languages=true)
-<!--
-**aligator527/aligator527** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Tech Lead — next-generation warehouse management system.** Technical planning and architecture across frontend, backend, cloud, security and WMS/WCS integration; technology selection, architecture standardisation, engineering guidelines, technical PoCs.
+- **Project lead — consumer AI chat platform, 0→1**, in a 20-person cross-functional team. React and TypeScript frontend, Go backend, AWS with Terraform, self-hosted Keycloak as the platform's sign-in entry point.
+- **Full-stack engineer — packaging-industry SaaS**, web and mobile, used by more than ten Japanese companies during the engagement. Access-pattern and index redesign on DynamoDB and AppSync, pagination, search, data migration, Node.js 16 → 20.
+- **Client delivery** — five projects across five industries, two of them led end to end: requirements interviews in Japanese, Next.js and React frontends, AWS deployment, launch and operation.
 
-Here are some ideas to get you started:
+What was decided and why: [aligator527.github.io/work](https://aligator527.github.io/work/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Working with
+
+| | |
+|---|---|
+| Frontend | React, Next.js, TypeScript, React Native, TanStack |
+| Backend | Go, Node.js, Java/Spring, PHP/Laravel, Python/Django |
+| Cloud | AWS — Lambda, API Gateway, AppSync, DynamoDB, Amplify, S3, CloudFront — and Terraform |
+| Data and security | PostgreSQL, MySQL, DynamoDB, Keycloak |
+| AI | LLM integration, RAG, prompt engineering, workflow automation |
+
+## Public projects
+
+- **[logistics-map](https://github.com/aligator527/logistics-map)** — 総合物流マップ: first-pass site screening for warehouse location in Japan, built on open statistics. Static Svelte 5, no backend, travel-time and siting algorithms in Web Workers. [Live](https://aligator527.github.io/logistics-map/)
+- **[career-map](https://github.com/aligator527/career-map)** — public wage statistics from eleven jurisdictions in one comparison, computed entirely in the browser. Python pipeline, static React. [Live](https://aligator527.github.io/career-map/)
+- **[zairyu-map](https://github.com/aligator527/zairyu-map)** — an e-Stat crawler and the normalised datasets it produces on foreign residents in Japan, with a map over them. [Live](https://aligator527.github.io/zairyu-map/)
+- **[aligator527.github.io](https://github.com/aligator527/aligator527.github.io)** — the portfolio itself: Astro, three languages, static output, zero client JavaScript.
+
+## Contact
+
+- ivan.d@wanya.group
+- [linkedin.com/in/aligator527](https://linkedin.com/in/aligator527)
+- Russian (native) · Japanese (JLPT N1) · English
