@@ -19,13 +19,11 @@ What was decided and why: [aligator527.github.io/work](https://aligator527.githu
 
 ## Working with
 
-| | |
-|---|---|
-| Frontend | React, Next.js, TypeScript, React Native, TanStack |
-| Backend | Go, Node.js, Java/Spring, PHP/Laravel, Python/Django |
-| Cloud | AWS — Lambda, API Gateway, AppSync, DynamoDB, Amplify, S3, CloudFront — and Terraform |
-| Data and security | PostgreSQL, MySQL, DynamoDB, Keycloak |
-| AI | LLM integration, RAG, prompt engineering, workflow automation |
+- **Frontend** — React, Next.js, TypeScript, React Native, TanStack
+- **Backend** — Go, Node.js, Java/Spring, PHP/Laravel, Python/Django
+- **Cloud** — AWS: Lambda, API Gateway, AppSync, DynamoDB, Amplify, S3, CloudFront; Terraform
+- **Data and security** — PostgreSQL, MySQL, DynamoDB, Keycloak
+- **AI** — LLM integration, RAG, prompt engineering, workflow automation
 
 ## Public projects
 
