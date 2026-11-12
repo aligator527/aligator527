@@ -6,7 +6,7 @@ I design and ship complex web systems — from requirements and architecture to 
 
 **[Portfolio and case studies →](https://aligator527.github.io/)** · [日本語](https://aligator527.github.io/ja/) · [Русский](https://aligator527.github.io/ru/)
 
-Open to selected consulting and contract work: remote from Tokyo, or with teams outside Japan.
+Open to selected consulting and contract work: remote from Tokyo, or with teams outside Japan. Scoped engagements — performance audit, multilingual audit, architecture review, Japan bridge — are described at **[aligator527.github.io/services](https://aligator527.github.io/services/)**.
 
 ## Current and recent work
 
